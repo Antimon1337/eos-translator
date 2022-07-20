@@ -20,7 +20,7 @@ How to use?
 - Download the EoS Scripts to get all extracted scripts from the EU-Verison of EoS & Explorers of Skies
 - Open EoS Translator and point it to the eu folder of the downloaded scripts and specify which folder should be translated
 - Choose the language to translate the scripts into
-- CLickl translate
+- Click translate
 - Enjoy!
 
 
